@@ -1,0 +1,15 @@
+syntax = "proto3";
+package fizz_buzz;
+option go_package = "fizz_buzz";
+
+message FizzBuzzRequest {
+    int32 int1 = 1;
+    int32 int2 = 2;
+    int32 limit = 3;
+    string str1 = 4;
+    string str2 = 5;
+}
+
+message FizzBuzzResponse {
+    repeated string values = 1;
+}
