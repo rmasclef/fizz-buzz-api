@@ -1,0 +1,50 @@
+# github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869
+## explicit
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/etf1/go-config v0.2.1
+## explicit
+github.com/etf1/go-config
+github.com/etf1/go-config/dotenv
+github.com/etf1/go-config/env
+# github.com/gol4ng/httpware/v2 v2.1.1
+## explicit
+github.com/gol4ng/httpware/v2
+github.com/gol4ng/httpware/v2/correlation_id
+github.com/gol4ng/httpware/v2/interceptor
+github.com/gol4ng/httpware/v2/metrics
+github.com/gol4ng/httpware/v2/middleware
+# github.com/gol4ng/logger v0.5.5
+## explicit
+github.com/gol4ng/logger
+github.com/gol4ng/logger/formatter
+github.com/gol4ng/logger/handler
+github.com/gol4ng/logger/middleware
+github.com/gol4ng/logger/socket
+github.com/gol4ng/logger/writer
+github.com/gol4ng/logger/writer/provider
+# github.com/gol4ng/logger-http v0.2.0
+## explicit
+github.com/gol4ng/logger-http
+github.com/gol4ng/logger-http/middleware
+# github.com/gorilla/mux v1.7.4
+## explicit
+github.com/gorilla/mux
+# github.com/heetch/confita v0.9.0
+github.com/heetch/confita
+github.com/heetch/confita/backend
+github.com/heetch/confita/backend/env
+github.com/heetch/confita/backend/flags
+# github.com/joho/godotenv v1.3.0
+github.com/joho/godotenv
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.5.1
+## explicit
+github.com/stretchr/testify/assert
+# golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae
+## explicit
+# gopkg.in/yaml.v2 v2.2.8
+gopkg.in/yaml.v2
